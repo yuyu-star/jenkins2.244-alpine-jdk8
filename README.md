@@ -1,0 +1,1 @@
+# jenkins2.244-alpine-jdk8
